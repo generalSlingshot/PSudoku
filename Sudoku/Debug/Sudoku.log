@@ -1,0 +1,5 @@
+﻿  Oberflaeche.c
+c:\users\tomdarshan\source\repos\sudoku\sudoku\oberflaeche.c(149): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+c:\users\tomdarshan\source\repos\sudoku\sudoku\oberflaeche.c(149): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\tomdarshan\source\repos\sudoku\sudoku\oberflaeche.c(98): warning C4101: 'iArrayLength': unreferenced local variable
+  Sudoku.vcxproj -> C:\Users\tomdarshan\source\repos\Sudoku\Debug\Sudoku.exe
